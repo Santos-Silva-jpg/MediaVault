@@ -1,8 +1,8 @@
 # MediaVault
 
-## 🇧🇷 Português
+## 🇧🇷
 
-Um simples sistema de gerenciamento de mídia escrito em Python.
+Sistema simples de gerenciamento de mídia escrito em Python.
 Ele permite cadastrar, listar, pesquisar e remover itens da sua biblioteca pessoal.
 
 ### Funcionalidades
@@ -20,7 +20,7 @@ Ele permite cadastrar, listar, pesquisar e remover itens da sua biblioteca pesso
 
 ---
 
-## 🇺🇸 English
+## 🇺🇸 
 
 MediaVault is a simple media management system developed in Python.
 
