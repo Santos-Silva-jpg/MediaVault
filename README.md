@@ -1,4 +1,4 @@
-# <img src= "MediaVault.png"
+# MediaVault
 
 ## 🇧🇷
 
